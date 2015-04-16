@@ -1,0 +1,3 @@
+- install jade and express
+- set up server
+- install bower modules# ce-9053-10a
